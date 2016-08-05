@@ -1,2 +1,3 @@
 # mirthExample
-Example Mirth Integration
+Example Mirth Integration utilizing python and flask
+
